@@ -1,0 +1,5 @@
+com/example/MySqlSpringDemo/controller/BookController.class
+com/example/MySqlSpringDemo/respository/BookRepository.class
+com/example/MySqlSpringDemo/service/BookService.class
+com/example/MySqlSpringDemo/model/Book.class
+com/example/MySqlSpringDemo/MySqlSpringDemoApplication.class
