@@ -1,0 +1,5 @@
+/home/lab1/Desktop/Microservices/dependecyInjection/src/main/java/com/example/dependecyInjection/controller/DependecyController.java
+/home/lab1/Desktop/Microservices/dependecyInjection/src/main/java/com/example/dependecyInjection/service/TwitterService.java
+/home/lab1/Desktop/Microservices/dependecyInjection/src/main/java/com/example/dependecyInjection/service/EmailService.java
+/home/lab1/Desktop/Microservices/dependecyInjection/src/main/java/com/example/dependecyInjection/service/MessageService.java
+/home/lab1/Desktop/Microservices/dependecyInjection/src/main/java/com/example/dependecyInjection/DependecyInjectionApplication.java

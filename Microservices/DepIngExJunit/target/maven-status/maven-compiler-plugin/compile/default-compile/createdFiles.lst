@@ -1,0 +1,4 @@
+com\example\DepIngExJunit\controller\DepIngExJunitController.class
+com\example\DepIngExJunit\service\EnglishGreetingService.class
+com\example\DepIngExJunit\service\GreetingService.class
+com\example\DepIngExJunit\DepIngExJunitApplication.class

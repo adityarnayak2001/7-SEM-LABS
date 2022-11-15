@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.example.DepIngExJunit.DepIngExJunitApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.393 s <<< FAILURE! - in com.example.DepIngExJunit.DepIngExJunitApplicationTests
+shouldReturnDefaultMessage  Time elapsed: 0.352 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: "Dependency Injection & Testing!!"
+ but was: "Dependency Injection & Testing"
+	at com.example.DepIngExJunit.DepIngExJunitApplicationTests.shouldReturnDefaultMessage(DepIngExJunitApplicationTests.java:37)
+

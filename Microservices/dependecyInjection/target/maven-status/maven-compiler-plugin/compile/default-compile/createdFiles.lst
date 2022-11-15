@@ -1,0 +1,5 @@
+com/example/dependecyInjection/DependecyInjectionApplication.class
+com/example/dependecyInjection/service/MessageService.class
+com/example/dependecyInjection/service/EmailService.class
+com/example/dependecyInjection/controller/DependecyController.class
+com/example/dependecyInjection/service/TwitterService.class
